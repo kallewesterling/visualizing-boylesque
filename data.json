@@ -1,0 +1,38 @@
+{
+  "nodes": [
+    {"index": 0, "id": "Billy Ardelle", "label": "Billy Ardelle", "category": "artist", "indegree": 0, "outdegree": 1},
+    {"index": 1, "id": "Broadway Playboy Revue", "label": "Broadway Playboy Revue", "category": "show", "indegree": 2, "outdegree": 0},
+    {"index": 2, "id": "Lyle Page", "label": "Lyle Page", "category": "artist", "indegree": 0, "outdegree": 1},
+    {"index": 3, "id": "Bobby Grant", "label": "Bobby Grant", "category": "artist", "indegree": 0, "outdegree": 1},
+    {"index": 4, "id": "Skoller's Swing Land", "label": "Skoller's Swing Land", "category": "nightclub", "indegree": 1, "outdegree": 1},
+    {"index": 5, "id": "Chicago", "label": "Chicago", "category": "city", "indegree": 2, "outdegree": 0},
+    {"index": 6, "id": "Vern Valdez", "label": "Vern Valdez", "category": "artist", "indegree": 0, "outdegree": 2},
+    {"index": 7, "id": "Spinning Wheel", "label": "Spinning Wheel", "category": "nightclub", "indegree": 8, "outdegree": 8},
+    {"index": 8, "id": "Seattle", "label": "Seattle", "category": "city", "indegree": 8, "outdegree": 0},
+    {"index": 9, "id": "Eddie La Rue", "label": "Eddie La Rue", "category": "artist", "indegree": 0, "outdegree": 2},
+    {"index": 10, "id": "Val Ray", "label": "Val Ray", "category": "artist", "indegree": 0, "outdegree": 2}
+  ],
+  "edges": [
+    {"source": "Billy Ardelle", "target": "Broadway Playboy Revue", "found-in": "Club Chatter, vol. 49, no. 35, August 28, 1937, 16.", "found-in-title": "Billboard", "comment": "", "inferred-year": "1937"},
+    {"source": "Lyle Page", "target": "Broadway Playboy Revue", "found-in": "Club Chatter, vol. 49, no. 37, September 11, 1937, 14.", "found-in-title": "Billboard", "comment": "", "inferred-year": "1937"},
+    {"source": "Bobby Grant", "target": "Skoller's Swing Land", "found-in": "Club Talent, vol. 51, no. 35, September 2, 1939, 18.", "found-in-title": "Billboard", "comment": "sepia femme impersonator", "inferred-year": "1939"},
+    {"source": "Skoller's Swing Land", "target": "Chicago", "found-in": "Club Talent, vol. 51, no. 35, September 2, 1939, 18.", "found-in-title": "Billboard", "inferred-year": "1939"},
+    {"source": "Vern Valdez", "target": "Spinning Wheel", "found-in": "Club Talent, vol. 51, no. 35, September 2, 1939, 18.", "found-in-title": "Billboard", "comment": "", "inferred-year": "1939"},
+    {"source": "Spinning Wheel", "target": "Seattle", "found-in": "Club Talent, vol. 51, no. 35, September 2, 1939, 18.", "found-in-title": "Billboard", "inferred-year": "1939"},
+    {"source": "Eddie La Rue", "target": "Spinning Wheel", "found-in": "Club Talent, vol. 51, no. 35, September 2, 1939, 18.", "found-in-title": "Billboard", "comment": "", "inferred-year": "1939"},
+    {"source": "Spinning Wheel", "target": "Seattle", "found-in": "Club Talent, vol. 51, no. 35, September 2, 1939, 18.", "found-in-title": "Billboard", "inferred-year": "1939"},
+    {"source": "Val Ray", "target": "Spinning Wheel", "found-in": "Club Talent, vol. 51, no. 35, September 2, 1939, 18.", "found-in-title": "Billboard", "comment": "", "inferred-year": "1939"},
+    {"source": "Spinning Wheel", "target": "Seattle", "found-in": "Club Talent, vol. 51, no. 35, September 2, 1939, 18.", "found-in-title": "Billboard", "inferred-year": "1939"},
+    {"source": "Milton LaMaire", "target": "Spinning Wheel", "found-in": "Club Talent, vol. 51, no. 35, September 2, 1939, 18.", "found-in-title": "Billboard", "comment": "", "inferred-year": "1939"},
+    {"source": "Spinning Wheel", "target": "Seattle", "found-in": "Club Talent, vol. 51, no. 35, September 2, 1939, 18.", "found-in-title": "Billboard", "inferred-year": "1939"},
+    {"source": "Francis Blair", "target": "Jonas and Francis' Playboy Revue", "found-in": "Club Talent, vol. 51, no. 35, September 2, 1939, 18.", "found-in-title": "Billboard", "comment": "", "inferred-year": "1939"},
+    {"source": "Francis Blair", "target": "Playhouse Cabaret", "found-in": "Club Talent, vol. 51, no. 35, September 2, 1939, 18.", "found-in-title": "Billboard", "comment": "", "inferred-year": "1939"},
+    {"source": "Playhouse Cabaret", "target": "Kansas City", "found-in": "Club Talent, vol. 51, no. 35, September 2, 1939, 18.", "found-in-title": "Billboard", "inferred-year": "1939"},
+    {"source": "Vern Valdez", "target": "Spinning Wheel", "found-in": "C M. Litteljohn, \"Night Club Reviews: Spinning Wheel, Seattle,\" vol. 51, no. 24, June 17, 1939, 20.", "found-in-title": "Billboard", "comment": "", "inferred-year": "1939"},
+    {"source": "Spinning Wheel", "target": "Seattle", "found-in": "C M. Litteljohn, \"Night Club Reviews: Spinning Wheel, Seattle,\" vol. 51, no. 24, June 17, 1939, 20.", "found-in-title": "Billboard", "inferred-year": "1939"},
+    {"source": "Eddie La Rue", "target": "Spinning Wheel", "found-in": "C M. Litteljohn, \"Night Club Reviews: Spinning Wheel, Seattle,\" vol. 51, no. 24, June 17, 1939, 20.", "found-in-title": "Billboard", "comment": "", "inferred-year": "1939"},
+    {"source": "Spinning Wheel", "target": "Seattle", "found-in": "C M. Litteljohn, \"Night Club Reviews: Spinning Wheel, Seattle,\" vol. 51, no. 24, June 17, 1939, 20.", "found-in-title": "Billboard", "inferred-year": "1939"},
+    {"source": "Val Ray", "target": "Spinning Wheel", "found-in": "C M. Litteljohn, \"Night Club Reviews: Spinning Wheel, Seattle,\" vol. 51, no. 24, June 17, 1939, 20.", "found-in-title": "Billboard", "comment": "", "inferred-year": "1939"},
+    {"source": "Spinning Wheel", "target": "Seattle", "found-in": "C M. Litteljohn, \"Night Club Reviews: Spinning Wheel, Seattle,\" vol. 51, no. 24, June 17, 1939, 20.", "found-in-title": "Billboard", "inferred-year": "1939"}
+  ]
+}
